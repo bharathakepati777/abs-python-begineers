@@ -1,0 +1,4 @@
+def printInput(string):
+    print('provided input value is:', string)
+
+printInput('be focused')
